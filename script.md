@@ -204,5 +204,5 @@ Du VIIè siècle au IVè siècle avant J.C.
   .right {
     left: 0%;
   }
-}	
+}
 </style>
