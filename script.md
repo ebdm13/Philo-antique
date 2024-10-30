@@ -22,10 +22,10 @@ Tout cela peut être résumé:
 
 1. Intro, début de la philosophie grecque antique
 2. Les écoles présocratiques
-3. l'Ecole Socratique
-4. Les écoles post-socratique
-5. Conclusion, fin  de la philosophie grec antique
-6. Ouverture autres philosophies antique
+3. l'école Socratique
+4. Les écoles post-socratiques
+5. Conclusion, fin de la philosophie grecque antique
+6. Ouverture autres philosophies antiques
 
 ## Intro, début de la philosophie grecque antique
 ## Les écoles présocratiques
