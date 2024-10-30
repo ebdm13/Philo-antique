@@ -51,6 +51,8 @@ Tout cela peut être résumé:
 </div> 
 
 ## Intro, début de la philosophie grecque antique
+*TODO: Écoles philosophiques, sectes*
+
 ## Les écoles présocratiques
 Du VIIè siècle au IVè siècle avant J.C.
 
@@ -83,6 +85,18 @@ et celle de l’ombre de la pyramide.
 
 ### École Pythagoricienne
 * Pythagore (Πυθαγόρας), né aux environs de -580 et mort vers -495
+
+École pythagoricienne&nbsp;: à la fois scientifique et religieuse&nbsp;:
+adoption d’un certain mode de vie et régime alimentaire, … (ex. les
+pythagoriciens étaient végétariens)
+
+Étudient surtout quatres grandes disciplines &nbsp;: arithmétique, géométrie,
+musique, astronomie.
+
+Pythagore est connu pour son théorème, qu’il a partiellement démontré. On a des
+traces de ce théorème chez les babyloniens (cf. illustration sur la couverture
+du cahier de calcul distribuée par M. Ginoux)
+
 
 ### Atomistes
 ### Sophistes
