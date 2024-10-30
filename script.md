@@ -68,13 +68,25 @@ Du VIIè siècle au IVè siècle avant J.C.
 
 
 ## Les écoles post-socratiques
+### Les Cyniques
+![Diogène](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg)
+Une des Ecoles fondée par un disciple de socrate est l'école des Cyniques. 
+En effet, Antisthène est considéré comme le fondateur de l'école Cynique. Il suivit d'abord les leçons de Gorgias, et enseigna même comme sophiste. Avant de suivre celles de Socrate jusqu'a la mort de ce dernier. Après le tragique évènement, il s'installe dans un gymnase, le Cynosarge (d'où le nom "Cyniques", qui provient du grec ancien kuon, chien). C'est la qu'il rencontre Diogène, la figure de proue du Cynisme, que rien ne déstiné à la vie qu'il allait mener. Il lui enseigne une philosophie défénie par l'éthique, la morale et la vertue, une philosophie pratique, où l'on gagne la vertue par une vie simple, morale ascétique, où l'on fait fi des conventions sociales. 
+... Tensions avec socrate.
+
+En effet, diogène était le fils d'un banquier, et reçus donc une éducation soignée. Mais lui et son père furent banis d'Athène. C'est là que début sa vocation de philosophe cynique. C'est suite à cette évènement qu'il réussite à convaincre Antishène lui enseigner sa philosophie.
+Vie de Diogène:
+
+- "Je cherche un homme"; plume un poulé -> "Voici l'homme selon Platon"
+- Enlèvement par des pirate
+- rencontre avec Alexandre le grand
+  
+ Il s'attaque à de nombreuses valeurs du monde grec, il critique la notion du sacré, remet en cause la cité et ses lois. Il rejète la société. Pour lui, nous sommes corrompus par les artifices de la civilisation et esclaves de nos passions. Il condamne les convoitise, le culte, les passions. Il préfère l'action à l'argumentation. Il estime que le seul but de la philosophie est le bonheur. 
 
 ## Conclusion, fin de la philosophie grecque antique
 
 ## Sources:
 - [Philo-lettres.fr, Michèle Tillard](https://philo-lettres.fr/grec-ancien/la-philosophie-grecque/) 
-
-
 
 <style>
 	* {
