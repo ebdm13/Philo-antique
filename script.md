@@ -61,20 +61,37 @@ Du VIIè siècle au IVè siècle avant J.C.
 
 #### École Milésienne
 * Thalès (Θαλῆς), né entre -625 et -620 et mort entre -548 et -545
-* Anaximandre, né vers -610 et mort vers -546
+* Anaximandre (Ἀναξίμανδρος), né vers -610 et mort vers -546
 
-Surnommés «&nbsp;les physiciens&nbsp;», étudient la nature (φύσισ&nbsp;: la
+Surnommés «&nbsp;les physiciens&nbsp;», étudient la nature (φύσις&nbsp;: la
 nature). Cherchent l’origine de toutes les choses et de tous les phénomènes.
 Pour Thalès, il s’agit de l’eau. Pour Anaximandre, il s’agit de l’ἄπειρον
-(infini, indéterminé, illimité, indéfini).
+(infini, indéterminé, illimité, indéfini – en fonction de l’étymologie supposée
+&nbsp;: pourrait venir de πέρας – limite – ou de περάω – traverser).
+
+En tout cas, proposent une approche + méthodologique de l’étude de la nature,
+avec des concepts rationnels plutôt que des mythes&nbsp;: premiers
+«&nbsp;scientifiques&nbsp;».
+
+Quelques mots sur Thalès&nbsp;: il a donné son nom à deux théorèmes (le premier,
+le plus connu en France, enseigné en classe de 4ème, et le second nous disant
+que tout triangle inscrit dans un demi-cercle est rectangle). Il n’a ni
+découvert ni été le premier à démontrer ces théorèmes, mais il est célèbre
+pour avoir mesuré la hauteur de la pyramide de Khéops à l’aide du premier
+théorème, en mesurant simultanément la longueur de l’ombre d’un bâton
+et celle de l’ombre de la pyramide.
 
 ### École Pythagoricienne
+* Pythagore (Πυθαγόρας), né aux environs de -580 et mort vers -495
+
 ### Atomistes
 ### Sophistes
 
 
 ## Les écoles post-socratiques
 ### Les Cyniques
+* Diogène de Sinope (Διογένης ὁ Σινωπεύς), né vers -413 et mort vers -323
+
 ![Diogène](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg)
 Une des écoles fondée par un disciple de Socrate est l'école des Cyniques.
 En effet, Antisthène est considéré comme le fondateur de l'école Cynique. Il
