@@ -29,4 +29,17 @@ Tout cela peut être résumé:
 
 ## Intro, début de la philosophie grecque antique
 ## Les écoles présocratiques
+Du VIIè siècle au IVè siècle avant J.C.
+
+### École Ionienne
+
+* Asie mineure
+* Héraclite, Anaxagore, …
+
+* Englobe l’école milésienne
+
+#### École Milésienne
+### École Pythagoricienne
+### Atomistes
+### Sophistes
 
