@@ -56,12 +56,18 @@ Du VIIè siècle au IVè siècle avant J.C.
 
 ### École Ionienne
 
-* Asie mineure
-* Héraclite, Anaxagore, …
-
+* Asie mineure (région d’Ionie, capitale Milet)
 * Englobe l’école milésienne
 
 #### École Milésienne
+* Thalès (Θαλῆς), né entre -625 et -620 et mort entre -548 et -545
+* Anaximandre, né vers -610 et mort vers -546
+
+Surnommés «&nbsp;les physiciens&nbsp;», étudient la nature (φύσισ&nbsp;: la
+nature). Cherchent l’origine de toutes les choses et de tous les phénomènes.
+Pour Thalès, il s’agit de l’eau. Pour Anaximandre, il s’agit de l’ἄπειρον
+(infini, indéterminé, illimité, indéfini).
+
 ### École Pythagoricienne
 ### Atomistes
 ### Sophistes
