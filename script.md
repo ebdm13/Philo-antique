@@ -103,7 +103,7 @@ du cahier de calcul distribuée par M. Ginoux)
 
 
 ## Les écoles post-socratiques
-### Les Cyniques
+### Les Cyniques, de 399av J-C jusqu'au Vème siècle. 
 * Diogène de Sinope (Διογένης ὁ Σινωπεύς), né vers -413 et mort vers -323
 
 ![Diogène](https://upload.wikimedia.org/wikipedia/commons/b/b1/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131.jpg)
@@ -137,6 +137,8 @@ nous sommes corrompus par les artifices de la civilisation et esclaves de nos
 passions. Il condamne les convoitises, le culte, les passions. Il préfère
 l'action à l'argumentation. Il estime que le seul but de la philosophie est le
 bonheur.
+
+### Epicure
 
 ## Conclusion, fin de la philosophie grecque antique
 
