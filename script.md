@@ -138,12 +138,67 @@ passions. Il condamne les convoitises, le culte, les passions. Il préfère
 l'action à l'argumentation. Il estime que le seul but de la philosophie est le
 bonheur.
 
-### Epicure
+### Epicurisme, 306 av. J-C -  VIème siècle après J-C
+![Epicure](https://upload.wikimedia.org/wikipedia/commons/4/46/Raffael_063.jpg)
+Un vingtène d'années après la mort de Diogène, Epicure achète un jardin à Athène est y fonde son école Phylosophique. 
 
+**Mais qui est Epicure ?**
+
+Née à Samos, d'un père colon Athènien. Après s'être instruit auprès de plusieurs prophéseurs, insatisfait de leurs réponses, il philosophe en autodidacte. Puis enseigne sa penssée. Cependant, il ne s'installe à Athène qu'en 306 av. J-C à 35ans avec quelque uns des ces plus fidèles élèves, car après la mort d'Alexandre le Grand en 323 av.J-C, Athènes s'enlige dans des conflicts entre les successeurs d'Alexandre (Guerres de Diadoques). Même si les conflicts ne cessent pas totalement, Démétrios Poliorcète libère Athène en -307 du régime oligarchique et restaure la démocratie.
+Il passe le rèste de sa vie dans ce jardin. (C'est pourquoi on nomme son école, le jardin). Il y vit de manière simple et frugale, entouré de ses amis et disciples. 
+
+**Quelle est sa philosophie ?**
+Epicure construit une théorie de la connaisance basé sur les sens. Pour lui, la réalitée se réduit au sensible, les sens sont les seules moyens qui dévoilent la réalitée. Selon sa théorie des prénotion, nous formons en nous des concepts à partir d'expérienes répétées. C'est pour cela, que la véritée ne peut-être connu qu'a partir des sens. Car si, ils sont faux, alors il faut un autre critère supérieur. Or la raison ne convient pas puisqu'elle dépend du sens. Et auccunes de nos sensations ne sont fausses, car étant différentes elles ne peuvent pas se contredire. Donc on ne pourait pas distinguer les fausses des vrai. Les sensations serait donc le seule critère valide.
+"Dire qu'une sensation est fausse reviendrait à dire que rien ne peut être perçu" Cicéron.
+Pour lui, l'erreur est uniquement causé par le jugement de la raison.
+Ansi, une théorie scientifique sera dit valide si:
+- l'expérience sensible vas dans son sens
+- elle n'est pas réfutée
+Plusieurs théories peuvent donc être valides, et donc doivent toutes être tenue pour vraies, car on ne peut faire de distinctions arbitraire.
+
+une physique Démocritienne (atomiste) / clinamen -> libre arbitre / pluralité des mondes.
+
+Principes:
+
+1. rien ne naît de rien
+2. tout ne peut naître de tout 
+3. rien ne peut retourner au néant
+
+Sa philosophie en elle même est un heudémonisme, c'est à dire quelle à pour unique but le bonheur. Et pour ateindre ce bonheur, il s'agit d'avoir un maximum de plaisir et un minimum de souffance, afin d'atteidre un état de tranquilité de l'âme, de bonheur stable, l'ataraxie. Ansi, il ne vise pas un exés de plaisirs (qui serait acompagne de son lot de souffrance), mais un équilibre, un état de repos. D'un point de vue morale, le plaisr est le bien et la soufrance le mal. 
+Epicure distingue les désirs:
+Les désirs vains: (artificiels ex: richesse, gloire ou irréalisables) et les désirs naturels, eux même divisé 2 catégories: ceux Nécessaires et ceux qui ne le sont pas.
+
+Il distingue aussi les plaisirs mobiles et statiques. les plaisirs mobiles ne durents pas, il faut donc les limiter. Les privilégié reviendrait à remplir un  toneau de Danaïdes.
+
+Il préconise donc l'amitié et déconseil la passion amoureuse. 
+
+> « Parmi les choses dont la sagesse se munit en vue de la félicité de la vie tout entière, de beaucoup la plus importante est la possession de l'amitié. » **Epicure** 
+
+C'est ainsi que Diogène d'OEnoanda fit gravé sur le mur d'un protiqe sa doctrine:
+
+1. Les dieux ne sont pas à craindre ;
+2. La mort n'est pas à craindre ;
+3. On peut atteindre le bonheur ;
+4. On peut supporter la douleur.
+
+Le fameux tetrapharmakon.
+Cette doctrine eu beaucoup de succés, et s'étendi dans tous le bassin méditérannéen. Elle attirait par sa facilité de compréantion. Et notemment grâce à Lucrèce un des premiers philosophes à écrire en langue latine qui dans son *De rerum natura* décrit le monde selon les principe d'Epicure. (1er siècle)
+
+> «l'épicurisme propose un idéal de bonheur individuel et une vision du monde où ni les dieux, ni même la mort ne sont à craindre, car si tout l'univers est composé d'atomes éternels et indestructibles, l'homme ne doit rien à l'initiative des Dieux. » **Denis Huisman**
+
+
+**Quand est-il de l'Epicurisme aujourd'hui ?**
+
+Il ne rèste presque rien de ses 300 ouvrages éstimées. On connait sa philosophie par ce qui rèste de ses oeuvres, mais surtout par les ouvrages de ses disciples (Lucrèce). L'Epicurisme antique n'a rien à voir avec l'usage d'aujourd'hui qui qualifie l'excès de plaisir.
+
+### Stoïcisme, 300 av. J-C  - VIème siècle
 ## Conclusion, fin de la philosophie grecque antique
-
+- Christianisme
+- 529: fermeture des écoles philosophiques païennes par l'empereur Justinien en 529
+- fin de la philosophie hellenienne 
 ## Sources:
 - [Philo-lettres.fr, Michèle Tillard](https://philo-lettres.fr/grec-ancien/la-philosophie-grecque/) 
+- [Vies, doctrines et sentences des philosophes illusres, Diogène Laërce](https://fr.wikipedia.org/wiki/Vies,_doctrines_et_sentences_des_philosophes_illustres)
 
 <style>
 	* {
