@@ -294,7 +294,7 @@ En effet, pour lui, la vertue est le bien suprème.
 Il invente le concepte de kathèkon = "ce qui convient, l'action convenable", c'est à dire le devoir. le devoir, est donc une action conforme à la nature et à la raison. 
 
 - Kathèkon vs Katorthômata (=action droite) vs adiaphora
-- 
+ 
 En ce qui est des passions (=sentiments), Zénon les qualifie de mal et de:
 > Mouvement irrationel de l'âme irrationel contraire à la nature.
 
