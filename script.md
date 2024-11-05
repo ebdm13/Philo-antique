@@ -51,9 +51,12 @@ Tout cela peut être résumé:
 </div> 
 
 ## Intro, début de la philosophie grecque antique
-*TODO: Écoles philosophiques, sectes*
-*Idée que pré- et post- socratique réfère aux idées philosophiques et non
-à l’ordre chronologique (bien qu’il soit le même en général)*
+*TODO: Captatio belevoentiae*
+
+Dans cet exposé, nous parlerons d’écoles présocratiques et d’écoles
+postsocratiques. Ces termes réfèrent aux idées philosophiques et ne suivent
+pas forcément l’ordre chronologique des philosophes, bien que ce soit le
+plus souvent le cas.
 
 ## Les écoles présocratiques
 Du VIIè siècle au IVè siècle avant J.C.
