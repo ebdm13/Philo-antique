@@ -200,11 +200,42 @@ Cette doctrine eu beaucoup de succés, et s'étendi dans tous le bassin médité
 Il ne rèste presque rien de ses 300 ouvrages éstimées. On connait sa philosophie par ce qui rèste de ses oeuvres, mais surtout par les ouvrages de ses disciples (Lucrèce). L'Epicurisme antique n'a rien à voir avec l'usage d'aujourd'hui qui qualifie l'excès de plaisir.
 
 ### Stoïcisme, 301 av. J-C  - VIème siècle
+
 ![Marc Aurèle, Musée Saint Raimon Toulouse](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/440px-MSR-ra-61-b-1-DM.jpg)
 
 Le principal courant qui née en parallège de l'Epicurisme est le Stoïcisme.
 En effet, le Stoïcisme née en 301 av. J-C, de l'ésprit de Zénon de Kition.
 
+**Qui est Zénon de Kition**
+
+Zénon de Kition est un philosophe grec d'origine phénicienne (Kition -> Chypre), née en 334 av. J-C d'un père comercant. A l'age de 22 ans, lors d'un voyage commercial (exportation de pourpre de Thyr) il s'échoua à Athènes. Le voyant comme un signe du destion, il se mit à étudier la philosophie. Il devient l'élève du Cynique Cratès de Thèbes, mais étudie aussi la philosophie Socratique et Platonicienne. Après avoir étudié pendant 13 ans, il se mit à enseigner sa philosophie à Athènes sour le Portique aux Peintures aussi appelé Pécile, stoa poïkilè en grec. C'est de la que lui vient le nom stoïque. L'école du stoïcisme était aussi appelé l'école du Portique (après avoir été appelé Zénonisme). Zénon devient très vite populaire, et se vit offrire la citoyenneté Athénienne (qu'il refusa), les clées des murailles de la ville et on lui érigea même une statue de bronze si ce n'est deux à son effigie. En 262 av. J-C, à l'êge de 72 ans, après s'être cognet le pouce ou le gros orteilles, il se dit qu'il était tant de mourir, reteint sa respiration et mourut. Suicide typique Cynique.
+
+**Quelle est sa philosophie ?**
+
+Zénon mené une vie austère proche de l'ascètisme. Comme les cyniques, il ne portait qu'un vieux manteau usé: (le tribôn). Sur le modèle de l'Académie, il divise la philosopohie en trois branches: la logique, la physique et l'éthique.
+En physique, il reprend celle d'Eraclite, en enseignant un univers qui serait cyclique (déduction de la position cyclique des étoiles) et issue d'un feu divin, une force créatrice, à la foi partout, et source de tout. On l'appelle aussi l'Ether.
+Il pense aussi que Dieu est un être vivant immortel, rationel, parfait (selon sa définition). Et que les dieux grecs traditionels sont en faite les noms qu'on lui donnes en fonction de ses puissance / caractéristiques.
+
+Il considère la logique comme un élément à part-entière de la philosophie et la divise en deux parties, la rhétorique et la dialéctique. Il développera surout la dialéctique.
+
+ Aujourd'hui, on le connait plus pour son éthique, car c'est là qu'il inove le plus. Il dit:
+
+ > « la fin est de vivre en accord avec la nature, ce qui signifie vivre selon la vertu» 
+
+En effet, pour lui, la vertue est le bien suprème. 
+
+Il invente le concepte de kathèkon = "ce qui convient, l'action convenable", c'est à dire le devoir. le devoir, est donc une action conforme à la nature et à la raison. 
+
+- Kathèkon vs Katorthômata (=action droite) vs adiaphora
+- 
+En ce qui est des passions (=sentiments), Zénon les qualifie de mal et de:
+> Mouvement irrationel de l'âme irrationel contraire à la nature.
+
+sauf trois d'entres elles appelé eupathies: la joie, la volonté, la crainte précautionneuse. Le sage doit donc visé l'apathie, c'est à dire l'absense de pations (mauvaises). Pour cela les stoîciens suivront une parénèse, c'est-à-dire un ensemble de conseils et de règles destinés à tous les hommes dans leur vie quotidienne.
+
+On doit donc bien évidement accepter son destion. Pour reprendre la métaphre du chien, si un chien est attaché à un chariot, il a le choit de résister au chariots, au quel cas il se fatiguera et sera épris d'une émotion de détresse voyant que sa lutte n'a auccun effet. Il sera donc malheureu. Ou, il peut accepter son destion, et marcher à la même vitesse que le chariot, auquel cas il ne souffrirat d'auncun mal dans l'indiférence. Il faut donc accepter accepter la mort car elle est innévitable.
+
+**Développement du Stoïcisme**
 
 - Stoïcisme ancien: Zénon de Kition, Cléanthe d'Assos, Chrysippe de Soles
 Portique, Stoa / 
