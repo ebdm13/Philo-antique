@@ -101,6 +101,14 @@ du cahier de calcul distribuée par M. Ginoux)
 ### Atomistes
 ### Sophistes
 
+## Socrate et ses disciples
+
+### Socrate
+
+### Platon
+
+### Aristote
+
 
 ## Les écoles post-socratiques
 ### Les Cyniques, de 399av J-C jusqu'au Vème siècle. 
@@ -191,14 +199,28 @@ Cette doctrine eu beaucoup de succés, et s'étendi dans tous le bassin médité
 
 Il ne rèste presque rien de ses 300 ouvrages éstimées. On connait sa philosophie par ce qui rèste de ses oeuvres, mais surtout par les ouvrages de ses disciples (Lucrèce). L'Epicurisme antique n'a rien à voir avec l'usage d'aujourd'hui qui qualifie l'excès de plaisir.
 
-### Stoïcisme, 300 av. J-C  - VIème siècle
+### Stoïcisme, 301 av. J-C  - VIème siècle
+![Marc Aurèle, Musée Saint Raimon Toulouse](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/440px-MSR-ra-61-b-1-DM.jpg)
+
+Le principal courant qui née en parallège de l'Epicurisme est le Stoïcisme.
+En effet, le Stoïcisme née en 301 av. J-C, de l'ésprit de Zénon de Kition.
+
+
+- Stoïcisme ancien: Zénon de Kition, Cléanthe d'Assos, Chrysippe de Soles
+Portique, Stoa / 
+- Stoïcisme moyen: Panéthios et Posidonios
+- Stoïcisme tardif: Sénèque, Epictète, Marc-Aurèle
+
+
+
+
 ## Conclusion, fin de la philosophie grecque antique
 - Christianisme
 - 529: fermeture des écoles philosophiques païennes par l'empereur Justinien en 529
 - fin de la philosophie hellenienne 
 ## Sources:
 - [Philo-lettres.fr, Michèle Tillard](https://philo-lettres.fr/grec-ancien/la-philosophie-grecque/) 
-- [Vies, doctrines et sentences des philosophes illusres, Diogène Laërce](https://fr.wikipedia.org/wiki/Vies,_doctrines_et_sentences_des_philosophes_illustres)
+- [Vies, doctrines et sentences des philosophes illusres, Diogène Laërce](https://remacle.org/bloodwolf/philosophes/laerce/thales1.htm)
 
 <style>
 	* {
