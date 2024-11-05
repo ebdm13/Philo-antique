@@ -52,6 +52,8 @@ Tout cela peut être résumé:
 
 ## Intro, début de la philosophie grecque antique
 *TODO: Écoles philosophiques, sectes*
+*Idée que pré- et post- socratique réfère aux idées philosophiques et non
+à l’ordre chronologique (bien qu’il soit le même en général)*
 
 ## Les écoles présocratiques
 Du VIIè siècle au IVè siècle avant J.C.
@@ -95,10 +97,45 @@ musique, astronomie.
 
 Pythagore est connu pour son théorème, qu’il a partiellement démontré. On a des
 traces de ce théorème chez les babyloniens (cf. illustration sur la couverture
-du cahier de calcul distribuée par M. Ginoux)
-
+du cahier de calcul distribué par M. Ginoux)
 
 ### Atomistes
+Fondé au Vè siècle avant notre ère, le courant atomiste est un courant
+philosophique puis scientifique affirmant que la matière est discontinue et
+constituée d’atomes.
+
+Vraisemblablement fondée par Leucippe (Λεύκιππος) et son élève Démocrite
+(Δημόκριτος). Elle apparaît également ailleurs, par exemple en Inde à peu près
+au même moment.
+
+Pour eux, les atomes (du grec ἄτομος, «&nbsp;insécable&nbsp; – on retrouve
+la racine τομος dans «&nbsp;dichotomie&nbsp;») se déplaçaient dans l’espace
+vide. Ils les pensaient indivisibles, à savoir qu’il «&nbsp;n’existe pas de
+lame de fer assez fine pour les diviser&nbsp;».
+
+Leucippe va à l’encontre des courants de pensée contemporains, qui affirmaient
+qu’il n’existe que quatre éléments – eau, terre, air, feu. Démocrite affirmait
+que «&nbsp;rien ne vient du néant, et rien, après avoir été détruit, n’y
+retourne&nbsp;», c’est-à-dire qu’étant donné que tout est fait d’atomes, si
+on détruit quelque chose, ses atomes existent toujours, et que tout ce qui est
+créé l’est à partir d’atomes déjà existant. On peut faire un parallèle avec
+Lavroisier qui, au XVIIIè siècle, disait que «&nbsp;rien ne se pert, rien ne se
+créée, tout se transforme&nbsp;».
+
+Cependant, les atomistes grecs n’imaginaient pas les atomes comme des noyaux
+de protons et neutrons entourés par un nuage électronique&nbsp;: pour eux, ils
+étaient sphériques, pouvaient être lisses ou rudes, crochus, recourbés ou ronds,
+leurs propriétés dépendant de ces caractéristiques, ainsi que de leur masse,
+forme, vitesse, direction et position.
+
+Les atomistes pensaient que ces atomes s’assemblaient pour former des
+simulacres, qui pénétraient dans l’esprit humain pour y apporter des
+informations.
+
+Plus tard, le courant atomiste a été repris par Épicure, et bien sûr par les
+scientifiques du XIXè siècle (tels que Amedeo Avogadro ou André-Marie Ampère),
+qui prouveront l’existance des atomes.
+
 ### Sophistes
 
 ## Socrate et ses disciples
