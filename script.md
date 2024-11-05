@@ -51,7 +51,12 @@ Tout cela peut être résumé:
 </div> 
 
 ## Intro, début de la philosophie grecque antique
-*TODO: Écoles philosophiques, sectes*
+*TODO: Captatio belevoentiae*
+
+Dans cet exposé, nous parlerons d’écoles présocratiques et d’écoles
+postsocratiques. Ces termes réfèrent aux idées philosophiques et ne suivent
+pas forcément l’ordre chronologique des philosophes, bien que ce soit le
+plus souvent le cas.
 
 ## Les écoles présocratiques
 Du VIIè siècle au IVè siècle avant J.C.
@@ -95,11 +100,44 @@ musique, astronomie.
 
 Pythagore est connu pour son théorème, qu’il a partiellement démontré. On a des
 traces de ce théorème chez les babyloniens (cf. illustration sur la couverture
-du cahier de calcul distribuée par M. Ginoux)
-
+du cahier de calcul distribué par M. Ginoux)
 
 ### Atomistes
-### Sophistes
+Fondé au Vè siècle avant notre ère, le courant atomiste est un courant
+philosophique puis scientifique affirmant que la matière est discontinue et
+constituée d’atomes.
+
+Vraisemblablement fondée par Leucippe (Λεύκιππος) et son élève Démocrite
+(Δημόκριτος). Elle apparaît également ailleurs, par exemple en Inde à peu près
+au même moment.
+
+Pour eux, les atomes (du grec ἄτομος, «&nbsp;insécable&nbsp; – on retrouve
+la racine τομος dans «&nbsp;dichotomie&nbsp;») se déplaçaient dans l’espace
+vide. Ils les pensaient indivisibles, à savoir qu’il «&nbsp;n’existe pas de
+lame de fer assez fine pour les diviser&nbsp;».
+
+Leucippe va à l’encontre des courants de pensée contemporains, qui affirmaient
+qu’il n’existe que quatre éléments – eau, terre, air, feu. Démocrite affirmait
+que «&nbsp;rien ne vient du néant, et rien, après avoir été détruit, n’y
+retourne&nbsp;», c’est-à-dire qu’étant donné que tout est fait d’atomes, si
+on détruit quelque chose, ses atomes existent toujours, et que tout ce qui est
+créé l’est à partir d’atomes déjà existant. On peut faire un parallèle avec
+Lavroisier qui, au XVIIIè siècle, disait que «&nbsp;rien ne se pert, rien ne se
+créée, tout se transforme&nbsp;».
+
+Cependant, les atomistes grecs n’imaginaient pas les atomes comme des noyaux
+de protons et neutrons entourés par un nuage électronique&nbsp;: pour eux, ils
+étaient sphériques, pouvaient être lisses ou rudes, crochus, recourbés ou ronds,
+leurs propriétés dépendant de ces caractéristiques, ainsi que de leur masse,
+forme, vitesse, direction et position.
+
+Les atomistes pensaient que ces atomes s’assemblaient pour former des
+simulacres, qui pénétraient dans l’esprit humain pour y apporter des
+informations.
+
+Plus tard, le courant atomiste a été repris par Épicure (Ἐπίκουρος), et bien
+sûr par les scientifiques du XIXè siècle (tels que Amedeo Avogadro ou
+André-Marie Ampère), qui prouveront l’existance des atomes.
 
 ## Socrate et ses disciples
 
@@ -109,6 +147,35 @@ du cahier de calcul distribuée par M. Ginoux)
 
 ### Aristote
 
+Aristote (Ἀριστοτέλης) : 384-322
+Disciple de Platon à l’Académie ;
+Un des penseurs les plus influents que le monde occidental ait connus.
+
+A abordé presques tous les domaines de connaissance de son temps : biologie,
+physique, métaphysique, logique, poétique, politique, rhétorique, éthique…
+
+Pour lui, la «&nbsp;philosophie&nbsp;» est comprise dans un sens + large&nbsp;:
+celui de la recherche du savoir pour lui-même
+
+Pour lui, la science comprend trois grands domaines : la science théorique, la
+science pratique et la science appliquée.
+
+La science théorique est la meilleure utilisation que l'homme puisse faire de
+son temps libre&nbsp;: il s’agit de la métaphysique des mathématiques et de la
+physique
+
+La science pratique comprend la politique et l’éthique
+
+Science appliquée est la science technique, c’est-à-dire touchant à la
+production. Comprend l’agriculture, la poésie, la rhétorique…, et de façon
+générale tout ce qui est fait par l’être humain
+
+La vertu éthique selon Aristote est l’équilibre entre imprudence et lâcheté.
+L’éthique d’Aristote vise à atteindre le Bien
+
+La doctrine scientifique aristotélicienne, avec des idées tels que le
+géocentrisme, recula au fur et à mesure des percées scientifiques, avant de
+complètement disparaître.
 
 ## Les écoles post-socratiques
 ### Les Cyniques, de 399av J-C jusqu'au Vème siècle. 
