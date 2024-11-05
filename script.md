@@ -132,11 +132,9 @@ Les atomistes pensaient que ces atomes s’assemblaient pour former des
 simulacres, qui pénétraient dans l’esprit humain pour y apporter des
 informations.
 
-Plus tard, le courant atomiste a été repris par Épicure, et bien sûr par les
-scientifiques du XIXè siècle (tels que Amedeo Avogadro ou André-Marie Ampère),
-qui prouveront l’existance des atomes.
-
-### Sophistes
+Plus tard, le courant atomiste a été repris par Épicure (Ἐπίκουρος), et bien
+sûr par les scientifiques du XIXè siècle (tels que Amedeo Avogadro ou
+André-Marie Ampère), qui prouveront l’existance des atomes.
 
 ## Socrate et ses disciples
 
@@ -146,6 +144,35 @@ qui prouveront l’existance des atomes.
 
 ### Aristote
 
+Aristote (Ἀριστοτέλης) : 384-322
+Disciple de Platon à l’Académie ;
+Un des penseurs les plus influents que le monde occidental ait connus.
+
+A abordé presques tous les domaines de connaissance de son temps : biologie,
+physique, métaphysique, logique, poétique, politique, rhétorique, éthique…
+
+Pour lui, la «&nbsp;philosophie&nbsp;» est comprise dans un sens + large&nbsp;:
+celui de la recherche du savoir pour lui-même
+
+Pour lui, la science comprend trois grands domaines : la science théorique, la
+science pratique et la science appliquée.
+
+La science théorique est la meilleure utilisation que l'homme puisse faire de
+son temps libre&nbsp;: il s’agit de la métaphysique des mathématiques et de la
+physique
+
+La science pratique comprend la politique et l’éthique
+
+Science appliquée est la science technique, c’est-à-dire touchant à la
+production. Comprend l’agriculture, la poésie, la rhétorique…, et de façon
+générale tout ce qui est fait par l’être humain
+
+La vertu éthique selon Aristote est l’équilibre entre imprudence et lâcheté.
+L’éthique d’Aristote vise à atteindre le Bien
+
+La doctrine scientifique aristotélicienne, avec des idées tels que le
+géocentrisme, recula au fur et à mesure des percées scientifiques, avant de
+complètement disparaître.
 
 ## Les écoles post-socratiques
 ### Les Cyniques, de 399av J-C jusqu'au Vème siècle. 
