@@ -141,9 +141,48 @@ André-Marie Ampère), qui prouveront l’existance des atomes.
 
 ## Socrate et ses disciples
 
-### Socrate
+### Socratisme, 470 av. J.-C. - 399 av. J.-C.
+![Socrate](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/360px-Socrate_du_Louvre.jpg)
 
-### Platon
+Socrate, né à Athènes en 470 av. J.-C., est souvent considéré comme l'un des fondateurs de la philosophie occidentale. Il n'a laissé aucun écrit, mais ses idées nous sont parvenues principalement à travers les dialogues de son disciple Platon.
+
+**Mais qui est Socrate ?**
+
+Socrate est né dans une famille modeste. Son père était sculpteur et sa mère sage-femme. Il a servi dans l'armée athénienne et a participé à plusieurs batailles. Connu pour sa méthode dialectique, il interrogeait les gens sur leurs croyances et leurs connaissances, révélant souvent leurs contradictions et leurs ignorances. Cette méthode, appelée maïeutique (art de l'accouchement des esprits), visait à aider les autres à découvrir la vérité par eux-mêmes.
+
+Socrate fut Accusé de corrompre la jeunesse et de ne pas croire aux dieux de la cité, il fut condamné à mort en 399 av. J.-C. Il accepta sa sentence avec dignité, affirmant qu'il préférait mourir plutôt que de renoncer à ses principes.
+
+
+**Quelle est sa philosophie ?**
+Socrate croyait que la sagesse commence par la reconnaissance de sa propre ignorance. Il affirmait que "la seule chose que je sais, c'est que je ne sais rien". Il pensait que la vertu est une forme de connaissance et que le mal est le résultat de l'ignorance. Pour lui, une vie vertueuse est essentielle pour atteindre le bonheur.
+
+Socrate insistait sur l'importance de l'âme et de la justice. Il croyait que l'âme est immortelle et que la justice est une vertu fondamentale. Il enseignait que la justice ne doit pas être confondue avec la loi ou les conventions sociales, mais qu'elle est une vérité universelle qui doit être découverte par la raison.
+
+**Qu'en est-il de Socrate aujourd'hui ?**
+
+Socrate n'a pas fondé d'école formelle, mais son influence a été profonde et durable. Ses idées ont inspiré de nombreux philosophes, notamment Platon, qui a fondé l'Académie, et Aristote, qui a fondé le Lycée.
+
+### Platonisme, 427 av. J.-C. - 347 av. J.-C.
+![Platon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/316px-Plato_Pio-Clemetino_Inv305.jpg)
+
+Platon, né à Athènes en 427 av. J.-C., est l'un des philosophes les plus influents de l'histoire. Il a fondé l'Académie, la première institution d'enseignement supérieur en Occident.
+
+**Mais qui est Platon ?**
+
+Platon est né dans une famille aristocratique athénienne. Il a été un disciple de Socrate et a été profondément influencé par ses enseignements. Après la mort de Socrate, Platon a voyagé en Italie et en Sicile, où il a rencontré des philosophes pythagoriciens. Il est retourné à Athènes vers 387 av. J.-C. et a fondé l'Académie, où il a enseigné pendant plus de quarante ans.
+
+**Quelle est sa philosophie ?**
+Platon est surtout connu pour sa théorie des Idées ou des Formes. Il croyait que le monde sensible est une copie imparfaite d'un monde idéal et éternel. Les Idées ou Formes sont des entités parfaites et immuables qui existent indépendamment du monde matériel. Par exemple, il y a une Idée de la beauté, de la justice, et de toutes les autres qualités.
+
+Platon pensait que l'âme est immortelle et qu'elle existe avant la naissance et après la mort. Il croyait que l'âme peut se souvenir des Idées qu'elle a connues dans son état préexistant. Cette théorie de la réminiscence est expliquée dans le dialogue "Ménon".
+
+Platon a également écrit sur la politique et la société. Dans "La République", il décrit une société idéale gouvernée par des philosophes-rois. Il croyait que la justice est l'harmonie entre les différentes parties de l'âme et de la société.
+
+**Qu'en est-il de Platon aujourd'hui ?**
+
+Platon a eu une influence immense sur la philosophie occidentale. Ses dialogues sont toujours étudiés et discutés dans les universités du monde entier. Ses idées sur la justice, la politique, et la nature de la réalité continuent d'inspirer les penseurs modernes.
+
+L'Académie de Platon a continué à fonctionner pendant près de mille ans, jusqu'à ce qu'elle soit fermée par l'empereur romain Justinien en 529 apr. J.-C. Cependant, les idées de Platon ont survécu et ont été transmises à travers les siècles par des philosophes comme Aristote, Plotin, et Augustin d'Hippone.
 
 ### Aristote
 
@@ -213,104 +252,99 @@ passions. Il condamne les convoitises, le culte, les passions. Il préfère
 l'action à l'argumentation. Il estime que le seul but de la philosophie est le
 bonheur.
 
-### Epicurisme, 306 av. J-C -  VIème siècle après J-C
+### Épicurisme, 306 av. J.-C. - VIème siècle après J.-C.
 ![Epicure](https://upload.wikimedia.org/wikipedia/commons/4/46/Raffael_063.jpg)
-Un vingtène d'années après la mort de Diogène, Epicure achète un jardin à Athène est y fonde son école Phylosophique. 
+Une vingtaine d'années après la mort de Diogène, Épicure achète un jardin à Athènes et y fonde son école philosophique.
 
-**Mais qui est Epicure ?**
+**Mais qui est Épicure ?**
 
-Née à Samos, d'un père colon Athènien. Après s'être instruit auprès de plusieurs prophéseurs, insatisfait de leurs réponses, il philosophe en autodidacte. Puis enseigne sa penssée. Cependant, il ne s'installe à Athène qu'en 306 av. J-C à 35ans avec quelque uns des ces plus fidèles élèves, car après la mort d'Alexandre le Grand en 323 av.J-C, Athènes s'enlige dans des conflicts entre les successeurs d'Alexandre (Guerres de Diadoques). Même si les conflicts ne cessent pas totalement, Démétrios Poliorcète libère Athène en -307 du régime oligarchique et restaure la démocratie.
-Il passe le rèste de sa vie dans ce jardin. (C'est pourquoi on nomme son école, le jardin). Il y vit de manière simple et frugale, entouré de ses amis et disciples. 
+Né à Samos, d'un père colon athénien. Après s'être instruit auprès de plusieurs philosophes, insatisfait de leurs réponses, il philosophe en autodidacte. Puis enseigne sa pensée. Cependant, il ne s'installe à Athènes qu'en 306 av. J.-C. à 35 ans avec quelques-uns de ses plus fidèles élèves, car après la mort d'Alexandre le Grand en 323 av. J.-C., Athènes s'enlise dans des conflits entre les successeurs d'Alexandre (Guerres des Diadoques). Même si les conflits ne cessent pas totalement, Démétrios Poliorcète libère Athènes en -307 du régime oligarchique et restaure la démocratie.
+Il passe le reste de sa vie dans ce jardin. (C'est pourquoi on nomme son école, le Jardin). Il y vit de manière simple et frugale, entouré de ses amis et disciples.
 
 **Quelle est sa philosophie ?**
-Epicure construit une théorie de la connaisance basé sur les sens. Pour lui, la réalitée se réduit au sensible, les sens sont les seules moyens qui dévoilent la réalitée. Selon sa théorie des prénotion, nous formons en nous des concepts à partir d'expérienes répétées. C'est pour cela, que la véritée ne peut-être connu qu'a partir des sens. Car si, ils sont faux, alors il faut un autre critère supérieur. Or la raison ne convient pas puisqu'elle dépend du sens. Et auccunes de nos sensations ne sont fausses, car étant différentes elles ne peuvent pas se contredire. Donc on ne pourait pas distinguer les fausses des vrai. Les sensations serait donc le seule critère valide.
+Épicure construit une théorie de la connaissance basée sur les sens. Pour lui, la réalité se réduit au sensible, les sens sont les seuls moyens qui dévoilent la réalité. Selon sa théorie des prénotions, nous formons en nous des concepts à partir d'expériences répétées. C'est pour cela que la vérité ne peut être connue qu'à partir des sens. Car si ils sont faux, alors il faut un autre critère supérieur. Or la raison ne convient pas puisqu'elle dépend du sens. Et aucune de nos sensations ne sont fausses, car étant différentes elles ne peuvent pas se contredire. Donc on ne pourrait pas distinguer les fausses des vraies. Les sensations seraient donc le seul critère valide.
 "Dire qu'une sensation est fausse reviendrait à dire que rien ne peut être perçu" Cicéron.
-Pour lui, l'erreur est uniquement causé par le jugement de la raison.
-Ansi, une théorie scientifique sera dit valide si:
-- l'expérience sensible vas dans son sens
+Pour lui, l'erreur est uniquement causée par le jugement de la raison.
+Ainsi, une théorie scientifique sera dite valide si :
+- l'expérience sensible va dans son sens
 - elle n'est pas réfutée
-Plusieurs théories peuvent donc être valides, et donc doivent toutes être tenue pour vraies, car on ne peut faire de distinctions arbitraire.
+Plusieurs théories peuvent donc être valides, et doivent toutes être tenues pour vraies, car on ne peut faire de distinctions arbitraires.
 
-une physique Démocritienne (atomiste) / clinamen -> libre arbitre / pluralité des mondes.
+Une physique démocritienne (atomiste) / clinamen -> libre arbitre / pluralité des mondes.
 
-Principes:
+Principes :
 
-1. rien ne naît de rien
-2. tout ne peut naître de tout 
-3. rien ne peut retourner au néant
+1. Rien ne naît de rien
+2. Tout ne peut naître de tout
+3. Rien ne peut retourner au néant
 
-Sa philosophie en elle même est un heudémonisme, c'est à dire quelle à pour unique but le bonheur. Et pour ateindre ce bonheur, il s'agit d'avoir un maximum de plaisir et un minimum de souffance, afin d'atteidre un état de tranquilité de l'âme, de bonheur stable, l'ataraxie. Ansi, il ne vise pas un exés de plaisirs (qui serait acompagne de son lot de souffrance), mais un équilibre, un état de repos. D'un point de vue morale, le plaisr est le bien et la soufrance le mal. 
-Epicure distingue les désirs:
-Les désirs vains: (artificiels ex: richesse, gloire ou irréalisables) et les désirs naturels, eux même divisé 2 catégories: ceux Nécessaires et ceux qui ne le sont pas.
+Sa philosophie en elle-même est un hédonisme, c'est-à-dire qu'elle a pour unique but le bonheur. Et pour atteindre ce bonheur, il s'agit d'avoir un maximum de plaisir et un minimum de souffrance, afin d'atteindre un état de tranquillité de l'âme, de bonheur stable, l'ataraxie. Ainsi, il ne vise pas un excès de plaisirs (qui serait accompagné de son lot de souffrance), mais un équilibre, un état de repos. D'un point de vue moral, le plaisir est le bien et la souffrance le mal.
+Épicure distingue les désirs :
+Les désirs vains : (artificiels ex : richesse, gloire ou irréalisables) et les désirs naturels, eux-mêmes divisés en deux catégories : ceux nécessaires et ceux qui ne le sont pas.
 
-Il distingue aussi les plaisirs mobiles et statiques. les plaisirs mobiles ne durents pas, il faut donc les limiter. Les privilégié reviendrait à remplir un  toneau de Danaïdes.
+Il distingue aussi les plaisirs mobiles et statiques. Les plaisirs mobiles ne durent pas, il faut donc les limiter. Les privilégier reviendrait à remplir un tonneau des Danaïdes.
 
-Il préconise donc l'amitié et déconseil la passion amoureuse. 
+Il préconise donc l'amitié et déconseille la passion amoureuse.
 
-> « Parmi les choses dont la sagesse se munit en vue de la félicité de la vie tout entière, de beaucoup la plus importante est la possession de l'amitié. » **Epicure** 
+> « Parmi les choses dont la sagesse se munit en vue de la félicité de la vie tout entière, de beaucoup la plus importante est la possession de l'amitié. » **Épicure**
 
-C'est ainsi que Diogène d'OEnoanda fit gravé sur le mur d'un protiqe sa doctrine:
+C'est ainsi que Diogène d'Œnoanda fit graver sur le mur d'un portique sa doctrine :
 
 1. Les dieux ne sont pas à craindre ;
 2. La mort n'est pas à craindre ;
 3. On peut atteindre le bonheur ;
 4. On peut supporter la douleur.
 
-Le fameux tetrapharmakon.
-Cette doctrine eu beaucoup de succés, et s'étendi dans tous le bassin méditérannéen. Elle attirait par sa facilité de compréantion. Et notemment grâce à Lucrèce un des premiers philosophes à écrire en langue latine qui dans son *De rerum natura* décrit le monde selon les principe d'Epicure. (1er siècle)
+Le fameux tétrapharmakon.
+Cette doctrine eut beaucoup de succès, et s'étendit dans tout le bassin méditerranéen. Elle attirait par sa facilité de compréhension. Et notamment grâce à Lucrèce, un des premiers philosophes à écrire en langue latine qui dans son *De rerum natura* décrit le monde selon les principes d'Épicure. (1er siècle)
 
-> «l'épicurisme propose un idéal de bonheur individuel et une vision du monde où ni les dieux, ni même la mort ne sont à craindre, car si tout l'univers est composé d'atomes éternels et indestructibles, l'homme ne doit rien à l'initiative des Dieux. » **Denis Huisman**
+> « L'épicurisme propose un idéal de bonheur individuel et une vision du monde où ni les dieux, ni même la mort ne sont à craindre, car si tout l'univers est composé d'atomes éternels et indestructibles, l'homme ne doit rien à l'initiative des Dieux. » **Denis Huisman**
 
+**Qu'en est-il de l'épicurisme aujourd'hui ?**
 
-**Quand est-il de l'Epicurisme aujourd'hui ?**
+Il ne reste presque rien de ses 300 ouvrages estimés. On connaît sa philosophie par ce qui reste de ses œuvres, mais surtout par les ouvrages de ses disciples (Lucrèce). L'épicurisme antique n'a rien à voir avec l'usage d'aujourd'hui qui qualifie l'excès de plaisir.
 
-Il ne rèste presque rien de ses 300 ouvrages éstimées. On connait sa philosophie par ce qui rèste de ses oeuvres, mais surtout par les ouvrages de ses disciples (Lucrèce). L'Epicurisme antique n'a rien à voir avec l'usage d'aujourd'hui qui qualifie l'excès de plaisir.
+### Stoïcisme, 301 av. J.-C. - VIème siècle
 
-### Stoïcisme, 301 av. J-C  - VIème siècle
+![Marc Aurèle, Musée Saint-Raymond Toulouse](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/440px-MSR-ra-61-b-1-DM.jpg)
 
-![Marc Aurèle, Musée Saint Raimon Toulouse](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/440px-MSR-ra-61-b-1-DM.jpg)
+Le principal courant qui naît en parallèle de l'épicurisme est le stoïcisme.
+En effet, le stoïcisme naît en 301 av. J.-C., de l'esprit de Zénon de Kition.
 
-Le principal courant qui née en parallège de l'Epicurisme est le Stoïcisme.
-En effet, le Stoïcisme née en 301 av. J-C, de l'ésprit de Zénon de Kition.
+**Qui est Zénon de Kition ?**
 
-**Qui est Zénon de Kition**
-
-Zénon de Kition est un philosophe grec d'origine phénicienne (Kition -> Chypre), née en 334 av. J-C d'un père comercant. A l'age de 22 ans, lors d'un voyage commercial (exportation de pourpre de Thyr) il s'échoua à Athènes. Le voyant comme un signe du destion, il se mit à étudier la philosophie. Il devient l'élève du Cynique Cratès de Thèbes, mais étudie aussi la philosophie Socratique et Platonicienne. Après avoir étudié pendant 13 ans, il se mit à enseigner sa philosophie à Athènes sour le Portique aux Peintures aussi appelé Pécile, stoa poïkilè en grec. C'est de la que lui vient le nom stoïque. L'école du stoïcisme était aussi appelé l'école du Portique (après avoir été appelé Zénonisme). Zénon devient très vite populaire, et se vit offrire la citoyenneté Athénienne (qu'il refusa), les clées des murailles de la ville et on lui érigea même une statue de bronze si ce n'est deux à son effigie. En 262 av. J-C, à l'êge de 72 ans, après s'être cognet le pouce ou le gros orteilles, il se dit qu'il était tant de mourir, reteint sa respiration et mourut. Suicide typique Cynique.
+Zénon de Kition est un philosophe grec d'origine phénicienne (Kition -> Chypre), né en 334 av. J.-C. d'un père commerçant. À l'âge de 22 ans, lors d'un voyage commercial (exportation de pourpre de Tyr), il s'échoue à Athènes. Le voyant comme un signe du destin, il se met à étudier la philosophie. Il devient l'élève du Cynique Cratès de Thèbes, mais étudie aussi la philosophie socratique et platonicienne. Après avoir étudié pendant 13 ans, il se met à enseigner sa philosophie à Athènes sous le Portique aux Peintures, aussi appelé Pécile, stoa poïkilè en grec. C'est de là que lui vient le nom stoïque. L'école du stoïcisme était aussi appelée l'école du Portique (après avoir été appelée zénonisme). Zénon devient très vite populaire, et se voit offrir la citoyenneté athénienne (qu'il refuse), les clés des murailles de la ville et on lui érige même une statue de bronze, sinon deux, à son effigie. En 262 av. J.-C., à l'âge de 72 ans, après s'être cogné le pouce ou le gros orteil, il se dit qu'il était temps de mourir, retient sa respiration et meurt. Suicide typique cynique.
 
 **Quelle est sa philosophie ?**
 
-Zénon mené une vie austère proche de l'ascètisme. Comme les cyniques, il ne portait qu'un vieux manteau usé: (le tribôn). Sur le modèle de l'Académie, il divise la philosopohie en trois branches: la logique, la physique et l'éthique.
-En physique, il reprend celle d'Eraclite, en enseignant un univers qui serait cyclique (déduction de la position cyclique des étoiles) et issue d'un feu divin, une force créatrice, à la foi partout, et source de tout. On l'appelle aussi l'Ether.
-Il pense aussi que Dieu est un être vivant immortel, rationel, parfait (selon sa définition). Et que les dieux grecs traditionels sont en faite les noms qu'on lui donnes en fonction de ses puissance / caractéristiques.
+Zénon mena une vie austère proche de l'ascétisme. Comme les cyniques, il ne portait qu'un vieux manteau usé : (le tribôn). Sur le modèle de l'Académie, il divise la philosophie en trois branches : la logique, la physique et l'éthique.
+En physique, il reprend celle d'Héraclite, en enseignant un univers qui serait cyclique (déduction de la position cyclique des étoiles) et issu d'un feu divin, une force créatrice, à la fois partout, et source de tout. On l'appelle aussi l'Éther.
+Il pense aussi que Dieu est un être vivant immortel, rationnel, parfait (selon sa définition). Et que les dieux grecs traditionnels sont en fait les noms qu'on lui donne en fonction de ses puissances / caractéristiques.
 
-Il considère la logique comme un élément à part-entière de la philosophie et la divise en deux parties, la rhétorique et la dialéctique. Il développera surout la dialéctique.
+Il considère la logique comme un élément à part entière de la philosophie et la divise en deux parties, la rhétorique et la dialectique. Il développera surtout la dialectique.
 
- Aujourd'hui, on le connait plus pour son éthique, car c'est là qu'il inove le plus. Il dit:
+Aujourd'hui, on le connaît plus pour son éthique, car c'est là qu'il innove le plus. Il dit :
 
- > « la fin est de vivre en accord avec la nature, ce qui signifie vivre selon la vertu» 
+> « La fin est de vivre en accord avec la nature, ce qui signifie vivre selon la vertu. »
 
-En effet, pour lui, la vertue est le bien suprème. 
+En effet, pour lui, la vertu est le bien suprême.
 
-Il invente le concepte de kathèkon = "ce qui convient, l'action convenable", c'est à dire le devoir. le devoir, est donc une action conforme à la nature et à la raison. 
+Il invente le concept de kathèkon = "ce qui convient, l'action convenable", c'est-à-dire le devoir. Le devoir est donc une action conforme à la nature et à la raison.
 
-- Kathèkon vs Katorthômata (=action droite) vs adiaphora
- 
-En ce qui est des passions (=sentiments), Zénon les qualifie de mal et de:
-> Mouvement irrationel de l'âme irrationel contraire à la nature.
+- Kathèkon vs Katorthômata (= action droite) vs adiaphora
 
-sauf trois d'entres elles appelé eupathies: la joie, la volonté, la crainte précautionneuse. Le sage doit donc visé l'apathie, c'est à dire l'absense de pations (mauvaises). Pour cela les stoîciens suivront une parénèse, c'est-à-dire un ensemble de conseils et de règles destinés à tous les hommes dans leur vie quotidienne.
+En ce qui concerne les passions (= sentiments), Zénon les qualifie de mal et de :
+> Mouvement irrationnel de l'âme contraire à la nature.
 
-On doit donc bien évidement accepter son destion. Pour reprendre la métaphre du chien, si un chien est attaché à un chariot, il a le choit de résister au chariots, au quel cas il se fatiguera et sera épris d'une émotion de détresse voyant que sa lutte n'a auccun effet. Il sera donc malheureu. Ou, il peut accepter son destion, et marcher à la même vitesse que le chariot, auquel cas il ne souffrirat d'auncun mal dans l'indiférence. Il faut donc accepter accepter la mort car elle est innévitable.
+sauf trois d'entre elles appelées eupathies : la joie, la volonté, la crainte précautionneuse. Le sage doit donc viser l'apathie, c'est-à-dire l'absence de passions (mauvaises). Pour cela, les stoïciens suivront une parénèse, c'est-à-dire un ensemble de conseils et de règles destinés à tous les hommes dans leur vie quotidienne.
 
-**Développement du Stoïcisme**
+On doit donc bien évidemment accepter son destin. Pour reprendre la métaphore du chien, si un chien est attaché à un chariot, il a le choix de résister au chariot, auquel cas il se fatiguera et sera pris d'une émotion de détresse voyant que sa lutte n'a aucun effet. Il sera donc malheureux. Ou, il peut accepter son destin, et marcher à la même vitesse que le chariot, auquel cas il ne souffrira d'aucun mal dans l'indifférence. Il faut donc accepter la mort car elle est inévitable.
 
-- Stoïcisme ancien: Zénon de Kition, Cléanthe d'Assos, Chrysippe de Soles
-Portique, Stoa / 
-- Stoïcisme moyen: Panéthios et Posidonios
-- Stoïcisme tardif: Sénèque, Epictète, Marc-Aurèle
+**Développement du stoïcisme**
 
+Le stoïcisme connaît trois périodes appelées : stoïcisme ancien, moyen et nouveau ou impérial. Le stoïcisme ancien s'étend du IIIème siècle av. J.-C. au IIème siècle, fondé par Zénon puis développé par Cléanthe et Chrysippe qui sont respectivement le 2ème et 3ème scholarque de l'école stoïcienne. Succède à ce stoïcisme ancien, le stoïcisme moyen jusqu'au 1er siècle après J.-C. Notamment connu pour Panétius et Posidonius qui ont enrichi la philosophie stoïcienne d'éléments platoniciens, aristotéliciens et de connaissances géographiques, historiques et astronomiques. Le stoïcisme commence alors à s'étendre dans la Rome antique, et se voit même adopté par certaines figures comme Cicéron qui reprit certaines idées de cette philosophie. Suite à cela, une période stérile s'ensuit. Avec la romanisation de la Grèce et les guerres civiles, la philosophie n'est plus une priorité et décline peu à peu. Mais Auguste met un terme à ces guerres, et Rome devient non seulement stable politiquement, mais aussi le principal pôle culturel. C'est là que le stoïcisme impérial ou nouveau débute. Il renaît sous l'influence de Sénèque, de l'esclave affranchi Épictète et de l'empereur Marc Aurèle avec ses *Pensées pour moi-même*.
 
-
+Aujourd'hui, l'adjectif stoïque est utilisé pour qualifier une personne impassible, inébranlable devant la douleur et la peine par exemple. Ce qui reflète une petite partie de sa signification antique, mais qui reste en partie vrai.
 
 ## Conclusion, fin de la philosophie grecque antique
 - Christianisme
