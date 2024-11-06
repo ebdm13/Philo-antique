@@ -138,7 +138,13 @@ Les sohpistes (du grec σοφιστής, «&nbsp;spécialiste du savoir&nbsp;»)
 à l’origines des orateurs et des professeurs d’éloquence. Ils sont vivement
 critiqués pour leurs raisonnements parfois fallacieux.
 
-On peut par exemple citer Gorgias (Γοργίας, v. 480 - v. 375), contemporain de
+On peut par exemple citer Protagoras (Πρωταγόρας, v. 490 – v. 420). Il était
+connu pour son agnosticisme («&nbsp;Des dieux, je ne sais s’ils sont ni s’ils
+ne sont pas&nbsp;»), et son relativisme, c’est-à-dire l’idée que rien n’existe
+indépendemmamment de celui qui le perçoit, donc il n’y a pas de réalité
+objective («&nbsp;L’homme est la mesure de toute chose&nbsp;»).
+
+On peut aussi citer Gorgias (Γοργίας, v. 480 - v. 375), contemporain de
 Socrate. Il pratiquait la rhétorique, par exemple pour convaincre les malades de
 son frère médecin de se laisser soigner. Il est conu pour avoir affirmé que
 rien n’existait.
