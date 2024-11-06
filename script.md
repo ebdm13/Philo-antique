@@ -189,7 +189,7 @@ Socrate fut Accusé de corrompre la jeunesse et de ne pas croire aux dieux de la
 
 
 **Quelle est sa philosophie ?**
-Socrate croyait que la sagesse commence par la reconnaissance de sa propre ignorance. Il affirmait que "la seule chose que je sais, c'est que je ne sais rien". Il pensait que la vertu est une forme de connaissance et que le mal est le résultat de l'ignorance. Pour lui, une vie vertueuse est essentielle pour atteindre le bonheur.
+Socrate croyait que la sagesse commence par la reconnaissance de sa propre ignorance. Il affirmait que "la seule chose que je sais, c'est que je ne sais rien" (ἓν οἶδα ὅτι οὐδὲν οἶδα). Il pensait que la vertu est une forme de connaissance et que le mal est le résultat de l'ignorance. Pour lui, une vie vertueuse est essentielle pour atteindre le bonheur.
 
 Socrate insistait sur l'importance de l'âme et de la justice. Il croyait que l'âme est immortelle et que la justice est une vertu fondamentale. Il enseignait que la justice ne doit pas être confondue avec la loi ou les conventions sociales, mais qu'elle est une vérité universelle qui doit être découverte par la raison.
 
