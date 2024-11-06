@@ -58,7 +58,7 @@ Du VIIè siècle au IVè siècle avant J.C.
 
 ### École Milésienne
 * Asie mineure (Milet, en région d’Ionie)
-* Thalès (Θαλῆς), né entre -625 et -620 et mort entre -548 et -545
+* Thalès (Θαλῆς ὁ Μιλήσιος), né entre -625 et -620 et mort entre -548 et -545
 * Anaximandre (Ἀναξίμανδρος), né vers -610 et mort vers -546
 
 Surnommés «&nbsp;les physiciens&nbsp;», étudient la nature (φύσις&nbsp;: la
