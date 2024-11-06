@@ -53,20 +53,11 @@ Tout cela peut être résumé:
 ## Intro, début de la philosophie grecque antique
 *TODO: Captatio belevoentiae*
 
-Dans cet exposé, nous parlerons d’écoles présocratiques et d’écoles
-postsocratiques. Ces termes réfèrent aux idées philosophiques et ne suivent
-pas forcément l’ordre chronologique des philosophes, bien que ce soit le
-plus souvent le cas.
-
 ## Les écoles présocratiques
 Du VIIè siècle au IVè siècle avant J.C.
 
-### École Ionienne
-
-* Asie mineure (région d’Ionie, capitale Milet)
-* Englobe l’école milésienne
-
-#### École Milésienne
+### École Milésienne
+* Asie mineure (Milet, en région d’Ionie)
 * Thalès (Θαλῆς), né entre -625 et -620 et mort entre -548 et -545
 * Anaximandre (Ἀναξίμανδρος), né vers -610 et mort vers -546
 
@@ -139,6 +130,39 @@ Plus tard, le courant atomiste a été repris par Épicure (Ἐπίκουρος)
 sûr par les scientifiques du XIXè siècle (tels que Amedeo Avogadro ou
 André-Marie Ampère), qui prouveront l’existance des atomes.
 
+### Sophistes
+Les sohpistes (du grec σοφιστής, «&nbsp;spécialiste du savoir&nbsp;») étaient
+à l’origines des orateurs et des professeurs d’éloquence. Ils sont vivement
+critiqués pour leurs raisonnements parfois fallacieux.
+
+On peut par exemple citer Gorgias (Γοργίας, v. 480 - v. 375), contemporain de
+Socrate. Il pratiquait la rhétorique, par exemple pour convaincre les malades de
+son frère médecin de se laisser soigner. Il est conu pour avoir affirmé que
+rien n’existait.
+
+#### Proposition
+> Rien n’existe.
+
+L’idée de la démonstration repose sur le fait qu’il y ait l’être, et le
+non-être. Si quelque chose existait, ce serait soit l’être, soit le non-être,
+soit les deux à la fois
+
+#### Démonstration que le non-être n’existe pas
+Par l’absurde&nbsp;:
+> Si le non-être existait, alors à la fois il serait et à la fois il ne
+> serait pas&nbsp;: contradiction. Donc le non-être n’existe pas.
+
+#### Démonstration que l’être n’existe pas
+> * Si l’être était éternel, alors il serait illimité. S’il était illimité,
+>   il ne serait nulle part. S’il n’était nulle part, il n’existerait pas.
+> * Si l’être n’était pas éternel, il serait engendré. Or, il serait engendré
+>   soit par l’être, soit par le non-être. Comme l’être n’existait pas
+>   avant qu’il soit engendré, il a forcément été engendré par le non-être.
+>   Ce qui est impossible
+
+Donc l’être n’étant ni éternel, ni engendré, il n’existe pas.
+Ainsi, l’être et le non être n’existant pas, rien n’existe.
+
 ## Socrate et ses disciples
 
 ### Socratisme, 470 av. J.-C. - 399 av. J.-C.
@@ -187,10 +211,10 @@ L'Académie de Platon a continué à fonctionner pendant près de mille ans, jus
 ### Aristote
 
 Aristote (Ἀριστοτέλης) : 384-322
-Disciple de Platon à l’Académie ;
-Un des penseurs les plus influents que le monde occidental ait connus.
+Il était disciple de Platon à l’Académie
+Il est l’un des penseurs les plus influents que le monde occidental ait connus.
 
-A abordé presques tous les domaines de connaissance de son temps : biologie,
+Il a abordé presques tous les domaines de connaissance de son temps : biologie,
 physique, métaphysique, logique, poétique, politique, rhétorique, éthique…
 
 Pour lui, la «&nbsp;philosophie&nbsp;» est comprise dans un sens + large&nbsp;:
@@ -205,16 +229,17 @@ physique
 
 La science pratique comprend la politique et l’éthique
 
-Science appliquée est la science technique, c’est-à-dire touchant à la
+La science appliquée est la science technique, c’est-à-dire touchant à la
 production. Comprend l’agriculture, la poésie, la rhétorique…, et de façon
 générale tout ce qui est fait par l’être humain
-
-La vertu éthique selon Aristote est l’équilibre entre imprudence et lâcheté.
-L’éthique d’Aristote vise à atteindre le Bien
 
 La doctrine scientifique aristotélicienne, avec des idées tels que le
 géocentrisme, recula au fur et à mesure des percées scientifiques, avant de
 complètement disparaître.
+
+En disciple de Platon, il a rédigé à l’encontre des sophistes son traité des
+*Réfutations Sophistiques*, où il traite notamment le paradoxe du menteur
+(Épiménide le Crétois&nbsp;: «&nbsp;tous les Crétois sont des menteurs&nbsp;»).
 
 ## Les écoles post-socratiques
 ### Les Cyniques, de 399av J-C jusqu'au Vème siècle. 
