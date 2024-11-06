@@ -58,7 +58,7 @@ Du VIIè siècle au IVè siècle avant J.C.
 
 ### École Milésienne
 * Asie mineure (Milet, en région d’Ionie)
-* Thalès (Θαλῆς), né entre -625 et -620 et mort entre -548 et -545
+* Thalès (Θαλῆς ὁ Μιλήσιος), né entre -625 et -620 et mort entre -548 et -545
 * Anaximandre (Ἀναξίμανδρος), né vers -610 et mort vers -546
 
 Surnommés «&nbsp;les physiciens&nbsp;», étudient la nature (φύσις&nbsp;: la
@@ -80,11 +80,16 @@ théorème, en mesurant simultanément la longueur de l’ombre d’un bâton
 et celle de l’ombre de la pyramide.
 
 ### École Pythagoricienne
-* Pythagore (Πυθαγόρας), né aux environs de -580 et mort vers -495
+* Pythagore (Πυθαγόρας), né à Samos aux environs de -580 et mort vers -495
+* L’école Pythagoricienne a été fondée à Crotone, une colonie grecque du
+  sud de l’Italie (Grande-Grèce)
 
 École pythagoricienne&nbsp;: à la fois scientifique et religieuse&nbsp;:
 adoption d’un certain mode de vie et régime alimentaire, … (ex. les
-pythagoriciens étaient végétariens)
+pythagoriciens étaient végétariens). Les pythagoriciens croyaient en
+la réincarnation, ou + précisément en l’éternité de l’âme, ou métempsycose.
+Les pythagoriciens pensaient que tout, dans l’univers, était constitué de
+nombres.
 
 Étudient surtout quatres grandes disciplines &nbsp;: arithmétique, géométrie,
 musique, astronomie.
@@ -131,11 +136,17 @@ sûr par les scientifiques du XIXè siècle (tels que Amedeo Avogadro ou
 André-Marie Ampère), qui prouveront l’existance des atomes.
 
 ### Sophistes
-Les sohpistes (du grec σοφιστής, «&nbsp;spécialiste du savoir&nbsp;») étaient
+Les sophistes (du grec σοφιστής, «&nbsp;spécialiste du savoir&nbsp;») étaient
 à l’origines des orateurs et des professeurs d’éloquence. Ils sont vivement
 critiqués pour leurs raisonnements parfois fallacieux.
 
-On peut par exemple citer Gorgias (Γοργίας, v. 480 - v. 375), contemporain de
+On peut par exemple citer Protagoras (Πρωταγόρας, v. 490 – v. 420). Il était
+connu pour son agnosticisme («&nbsp;Des dieux, je ne sais s’ils sont ni s’ils
+ne sont pas&nbsp;»), et son relativisme, c’est-à-dire l’idée que rien n’existe
+indépendemmamment de celui qui le perçoit, donc il n’y a pas de réalité
+objective («&nbsp;L’homme est la mesure de toute chose&nbsp;»).
+
+On peut aussi citer Gorgias (Γοργίας, v. 480 - v. 375), contemporain de
 Socrate. Il pratiquait la rhétorique, par exemple pour convaincre les malades de
 son frère médecin de se laisser soigner. Il est conu pour avoir affirmé que
 rien n’existait.
@@ -186,7 +197,7 @@ Il fut condamné à mort en 399 av. J.-C. Il accepta sa sentence avec dignité, 
 
 
 **Quelle est sa philosophie ?**
-Socrate croyait que la sagesse commence par la reconnaissance de sa propre ignorance. Il affirmait que "la seule chose que je sais, c'est que je ne sais rien". Il pensait que la vertu est une forme de connaissance et que le mal est le résultat de l'ignorance. Pour lui, une vie vertueuse est essentielle pour atteindre le bonheur.
+Socrate croyait que la sagesse commence par la reconnaissance de sa propre ignorance. Il affirmait que "la seule chose que je sais, c'est que je ne sais rien" (ἓν οἶδα ὅτι οὐδὲν οἶδα). Il pensait que la vertu est une forme de connaissance et que le mal est le résultat de l'ignorance. Pour lui, une vie vertueuse est essentielle pour atteindre le bonheur.
 
 Socrate insistait sur l'importance de l'âme et de la justice. Il croyait que l'âme est immortelle et que la justice est une vertu fondamentale. Il enseignait que la justice ne doit pas être confondue avec la loi ou les conventions sociales, mais qu'elle est une vérité universelle qui doit être découverte par la raison.
 
@@ -262,7 +273,7 @@ En effet, Antisthène est considéré comme le fondateur de l'école Cynique. Il
 suivit d'abord les leçons de Gorgias, et enseigna même comme sophiste. Avant de
 suivre celles de Socrate jusqu'à la mort de ce dernier. Après le tragique
 évènement, il s'installe dans un gymnase, le Cynosarge (d'où le nom
-«&nbsp;Cyniques&nbsp;», qui provient du grec ancien κύων, chien). C'est là
+«&nbsp;Cyniques&nbsp;», qui provient du grec ancien κύων/kuon, chien). C'est là
 qu'il rencontre Diogène, la figure de proue du Cynisme, que rien ne déstinait à
 la vie qu'il allait mener. Il lui enseigne une philosophie définie par
 l'éthique, la morale et la vertu, une philosophie pratique, où l'on gagne la
