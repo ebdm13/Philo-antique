@@ -56,12 +56,8 @@ Tout cela peut être résumé:
 ## Les écoles présocratiques
 Du VIIè siècle au IVè siècle avant J.C.
 
-### École Ionienne
-
-* Asie mineure (région d’Ionie, capitale Milet)
-* Englobe l’école milésienne
-
-#### École Milésienne
+### École Milésienne
+* Asie mineure (Milet, en région d’Ionie)
 * Thalès (Θαλῆς), né entre -625 et -620 et mort entre -548 et -545
 * Anaximandre (Ἀναξίμανδρος), né vers -610 et mort vers -546
 
