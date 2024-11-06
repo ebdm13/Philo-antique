@@ -136,7 +136,7 @@ sûr par les scientifiques du XIXè siècle (tels que Amedeo Avogadro ou
 André-Marie Ampère), qui prouveront l’existance des atomes.
 
 ### Sophistes
-Les sohpistes (du grec σοφιστής, «&nbsp;spécialiste du savoir&nbsp;») étaient
+Les sophistes (du grec σοφιστής, «&nbsp;spécialiste du savoir&nbsp;») étaient
 à l’origines des orateurs et des professeurs d’éloquence. Ils sont vivement
 critiqués pour leurs raisonnements parfois fallacieux.
 
