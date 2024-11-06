@@ -80,11 +80,14 @@ théorème, en mesurant simultanément la longueur de l’ombre d’un bâton
 et celle de l’ombre de la pyramide.
 
 ### École Pythagoricienne
-* Pythagore (Πυθαγόρας), né aux environs de -580 et mort vers -495
+* Pythagore (Πυθαγόρας), né à Samos aux environs de -580 et mort vers -495
+* L’école Pythagoricienne a été fondée à Crotone, une colonie grecque du
+  sud de l’Italie (Grande-Grèce)
 
 École pythagoricienne&nbsp;: à la fois scientifique et religieuse&nbsp;:
 adoption d’un certain mode de vie et régime alimentaire, … (ex. les
-pythagoriciens étaient végétariens)
+pythagoriciens étaient végétariens). Les pythagoriciens croyaient en
+la réincarnation, ou + précisément en l’éternité de l’âme, ou métempsycose.
 
 Étudient surtout quatres grandes disciplines &nbsp;: arithmétique, géométrie,
 musique, astronomie.
