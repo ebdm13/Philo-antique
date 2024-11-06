@@ -168,13 +168,21 @@ Ainsi, l’être et le non être n’existant pas, rien n’existe.
 ### Socratisme, 470 av. J.-C. - 399 av. J.-C.
 ![Socrate](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/360px-Socrate_du_Louvre.jpg)
 
+Socrate est justement contamporain des Sophistes. Mais il ne partage pas les même idées. En effet, il déplore leurs motivation mercantile et leur manque de sincérité. 
+
 Socrate, né à Athènes en 470 av. J.-C., est souvent considéré comme l'un des fondateurs de la philosophie occidentale. Il n'a laissé aucun écrit, mais ses idées nous sont parvenues principalement à travers les dialogues de son disciple Platon.
 
 **Mais qui est Socrate ?**
 
-Socrate est né dans une famille modeste. Son père était sculpteur et sa mère sage-femme. Il a servi dans l'armée athénienne et a participé à plusieurs batailles. Connu pour sa méthode dialectique, il interrogeait les gens sur leurs croyances et leurs connaissances, révélant souvent leurs contradictions et leurs ignorances. Cette méthode, appelée maïeutique (art de l'accouchement des esprits), visait à aider les autres à découvrir la vérité par eux-mêmes.
+Sa biographie ansi que sa penssée est mal connue, du fait qu'il n'est rien écrit. Cependant,
+Socrate serait né dans une famille modeste. Son père était sculpteur et sa mère sage-femme. Il a servi dans l'armée athénienne et a participé à plusieurs batailles. Connu pour sa méthode dialectique, il interrogeait les gens sur leurs croyances et leurs connaissances, révélant souvent leurs contradictions et leurs ignorances. Cette méthode, appelée maïeutique (art de l'accouchement des esprits), visait à aider les autres à découvrir la vérité par eux-mêmes. C'est pour cela, que on le considère souvant comme le "Père de la philosophie". Car c'est le premier philosophe à proposer cette démarche, et  à insister autant sur la sagesse et la vertue.
 
-Socrate fut Accusé de corrompre la jeunesse et de ne pas croire aux dieux de la cité, il fut condamné à mort en 399 av. J.-C. Il accepta sa sentence avec dignité, affirmant qu'il préférait mourir plutôt que de renoncer à ses principes.
+La Pythie, aurait dit à Socrate qu'il était le plus sage des hommes. Etonné de cette affirmation, Socrate alla donc intéroger hommes politiques, poète et artisant et vit qu'en plus d'être ignorant, ils l'ignoraient. Socrate était donc bien le plus sage, car seul il s'avait qu'il ne savait rien.
+
+Socrate fut Accusé de:
+> « ne pas reconnaître les mêmes dieux que l'État, […] introduire des divinités nouvelles et […] corrompre la jeunesse » **Platon, Apologie de Socrate**
+
+Il fut condamné à mort en 399 av. J.-C. Il accepta sa sentence avec dignité, affirmant qu'il préférait mourir plutôt que de renoncer à ses principes, et bue le cigüe.
 
 
 **Quelle est sa philosophie ?**
@@ -189,11 +197,14 @@ Socrate n'a pas fondé d'école formelle, mais son influence a été profonde et
 ### Platonisme, 427 av. J.-C. - 347 av. J.-C.
 ![Platon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/316px-Plato_Pio-Clemetino_Inv305.jpg)
 
-Platon, né à Athènes en 427 av. J.-C., est l'un des philosophes les plus influents de l'histoire. Il a fondé l'Académie, la première institution d'enseignement supérieur en Occident.
+Le Disciple le plus connus de Socrate est Platon.
+Selon la légende, agée d'une vingthène d'années, Platon résolut de quitter athène pour réjoindre l'armée alla acheter des armes. C'est là qu'il rencontra Socrate pour la première fois. Ce dernier le convainc alors, de ne pas partir à l'armé et de se consacrer à la Philosophie.
+
+c'est l'un des philosophes les plus influents de l'histoire. Il a fondé l'Académie, la première institution d'enseignement supérieur en Occident.
 
 **Mais qui est Platon ?**
 
-Platon est né dans une famille aristocratique athénienne. Il a été un disciple de Socrate et a été profondément influencé par ses enseignements. Après la mort de Socrate, Platon a voyagé en Italie et en Sicile, où il a rencontré des philosophes pythagoriciens. Il est retourné à Athènes vers 387 av. J.-C. et a fondé l'Académie, où il a enseigné pendant plus de quarante ans.
+Platon est né dans une famille aristocratique athénienne. Il a été un disciple de Socrate et a été profondément influencé par ses enseignements. Après la mort de Socrate, Platon a voyagé en Italie et en Sicile, où il a rencontré des philosophes pythagoriciens. Il est retourné à Athènes vers 387 av. J.-C. et a fondé l'Académie, où il a enseigné pendant plus de quarante ans. Ce nom vient du domaine ou il fit construire l'école. C'est à dire celui d'Académos, héros grec qui aurrait aidé Castor et Pollux à retrouvé leurs soeur Hélène enlevée par Thésée. Suite à cela Castor et Pollux aurrait jurée de le protégée, lui et ses bien. Ses terres en faisait parties est étaient considérés sacrées.
 
 **Quelle est sa philosophie ?**
 Platon est surtout connu pour sa théorie des Idées ou des Formes. Il croyait que le monde sensible est une copie imparfaite d'un monde idéal et éternel. Les Idées ou Formes sont des entités parfaites et immuables qui existent indépendamment du monde matériel. Par exemple, il y a une Idée de la beauté, de la justice, et de toutes les autres qualités.
