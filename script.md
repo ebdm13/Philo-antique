@@ -88,6 +88,8 @@ et celle de l’ombre de la pyramide.
 adoption d’un certain mode de vie et régime alimentaire, … (ex. les
 pythagoriciens étaient végétariens). Les pythagoriciens croyaient en
 la réincarnation, ou + précisément en l’éternité de l’âme, ou métempsycose.
+Les pythagoriciens pensaient que tout, dans l’univers, était constitué de
+nombres.
 
 Étudient surtout quatres grandes disciplines &nbsp;: arithmétique, géométrie,
 musique, astronomie.
