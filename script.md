@@ -262,7 +262,7 @@ En effet, Antisthène est considéré comme le fondateur de l'école Cynique. Il
 suivit d'abord les leçons de Gorgias, et enseigna même comme sophiste. Avant de
 suivre celles de Socrate jusqu'à la mort de ce dernier. Après le tragique
 évènement, il s'installe dans un gymnase, le Cynosarge (d'où le nom
-«&nbsp;Cyniques&nbsp;», qui provient du grec ancien κύων, chien). C'est là
+«&nbsp;Cyniques&nbsp;», qui provient du grec ancien κύων/kuon, chien). C'est là
 qu'il rencontre Diogène, la figure de proue du Cynisme, que rien ne déstinait à
 la vie qu'il allait mener. Il lui enseigne une philosophie définie par
 l'éthique, la morale et la vertu, une philosophie pratique, où l'on gagne la
