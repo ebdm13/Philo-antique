@@ -3,52 +3,11 @@
 ![Raphaël, L'École d'Athènes, 1508-1512, Musées du Vatican](https://upload.wikimedia.org/wikipedia/commons/1/18/The_School_of_Athens.jpg)
 
 ## Plan
-0. Le début de la philosophie antique
-1. Ecole milésiene - Thalès
-2. Ecole Pythagoricenne
-3. Ecole Eléate
-3. Les autres présocratiques: les atomistes (Démocrite), Empédocle, Anaxagore, Héraclite ...
-
------ Rupture -------
-
-4. Les Sophistes: Protagoras, Gorgias, Prodicos, Antiphon, Calliclès ... 
-5. Le triplet gagnant: Socrate, Platon et Aristote
-6. Ecole cynique: Diogène et Cratès  
-7. Ecole épicurienne
-8. Ecoles stoïciennes: le Portique, anetios, Poseïdonios, Epictète, Sénèque, Marc-Aurèle 
-9. La fin de la philosophie antique
-
-Tout cela peut être résumé:
-
 1. Intro, début de la philosophie grecque antique
 2. Les écoles présocratiques
 3. l'école Socratique
-4. Les écoles post-socratiques
+4. Les écoles hellénistiques
 5. Conclusion, fin de la philosophie grecque antique
-6. Ouverture autres philosophies antiques
-
-## Chronologie
-
-<div class="timeline">
-  <div class="container left">
-    <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-   <div class="container left">
-    <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-</div> 
 
 ## Intro, début de la philosophie grecque antique
 *TODO: Captatio belevoentiae*
@@ -185,8 +144,7 @@ Socrate, né à Athènes en 470 av. J.-C., est souvent considéré comme l'un de
 
 **Mais qui est Socrate ?**
 
-Sa biographie ansi que sa penssée est mal connue, du fait qu'il n'est rien écrit. Cependant,
-Socrate serait né dans une famille modeste. Son père était sculpteur et sa mère sage-femme. Il a servi dans l'armée athénienne et a participé à plusieurs batailles. Connu pour sa méthode dialectique, il interrogeait les gens sur leurs croyances et leurs connaissances, révélant souvent leurs contradictions et leurs ignorances. Cette méthode, appelée maïeutique (art de l'accouchement des esprits), visait à aider les autres à découvrir la vérité par eux-mêmes. C'est pour cela, que on le considère souvant comme le "Père de la philosophie". Car c'est le premier philosophe à proposer cette démarche, et  à insister autant sur la sagesse et la vertue.
+Socrate serait né dans une famille modeste. Son père était sculpteur et sa mère sage-femme. Il a servi dans l'armée athénienne et a participé à plusieurs batailles. Connu pour sa méthode **dialectique**, il interrogeait les gens sur leurs croyances et leurs connaissances, révélant souvent leurs contradictions et leurs ignorances. Cette méthode, appelée **maïeutique** (art de l'accouchement des esprits), visait à aider les autres à découvrir la vérité par eux-mêmes. C'est pour cela, que on le considère souvant comme le *"Père de la philosophie"*. Car c'est le premier philosophe à proposer cette démarche, et  à insister autant sur la sagesse et la vertue.
 
 La Pythie, aurait dit à Socrate qu'il était le plus sage des hommes. Etonné de cette affirmation, Socrate alla donc intéroger hommes politiques, poète et artisant et vit qu'en plus d'être ignorant, ils l'ignoraient. Socrate était donc bien le plus sage, car seul il s'avait qu'il ne savait rien.
 
@@ -279,25 +237,27 @@ la vie qu'il allait mener. Il lui enseigne une philosophie définie par
 l'éthique, la morale et la vertu, une philosophie pratique, où l'on gagne la
 vertu par une vie simple, morale ascétique, où l'on fait fi des conventions
 sociales.
-... Tensions avec Socrate.
 
 En effet, Diogène était le fils d'un banquier, et reçu donc une éducation
 soignée. Mais lui et son père furent banis d'Athènes. C'est là que débute sa
 vocation de philosophe cynique. C'est suite à cette évènement qu'il réussite à
 convaincre Antishène lui enseigner sa philosophie.
-Vie de Diogène:
 
-- «&nbsp;Je cherche un homme&nbsp;»; plume un poulet -> «&nbsp;Voici l'homme
-  selon Platon&nbsp;» (Pour Platon, l’homme est un animal sans plumes)
-- Enlèvement par des pirates
-- Rencontre avec Alexandre le Grand
+En ce qui concerne sa vie, plusieurs anecdotes illustrent bien la philosophie de Diogène de Sinope.
 
-Il s'attaque à de nombreuses valeurs du monde grec, il critique la notion du
-sacré, remet en cause la cité et ses lois. Il rejette la société. Pour lui,
-nous sommes corrompus par les artifices de la civilisation et esclaves de nos
-passions. Il condamne les convoitises, le culte, les passions. Il préfère
-l'action à l'argumentation. Il estime que le seul but de la philosophie est le
-bonheur.
+Par exemple:
+
+- Diogène était souvent vu en train de se promener en plein jour avec une lanterne allumée. Lorsqu'on lui demandait pourquoi il faisait cela, il répondait : « Je cherche un homme ». Cette phrase illustre sa quête de vérité et de vertu, soulignant la rareté des hommes véritablement bons et sages.
+
+- Un jour, Diogène pluma un poulet et le présenta en disant : « Voici l'homme selon Platon ». Cette action était une critique ironique de la définition de l'homme par Platon, qui le décrivait comme un animal sans plumes. Diogène utilisait cette démonstration pour ridiculiser ce qu'il considérait comme une définition simpliste et inadéquate.
+
+- Diogène fut capturé par des pirates et vendu comme esclave à Corinthe. Lorsqu'on lui demanda ce qu'il savait faire, il répondit : « Commander aux hommes ». Il fut acheté par un homme nommé Xeniade, qui l'employa comme précepteur pour ses enfants. Diogène utilisa cette situation pour continuer à enseigner sa philosophie cynique.
+
+Une des anecdotes les plus célèbres concernant Diogène est sa rencontre avec Alexandre le Grand. Alexandre, impressionné par la réputation de Diogène, vint le voir alors qu'il était assis dans un tonneau. Alexandre se tint devant lui et lui demanda s'il pouvait faire quelque chose pour lui. Diogène répondit : « Oui, ôte-toi de mon soleil ». Cette réponse illustre le mépris de Diogène pour les conventions sociales et le pouvoir, ainsi que son attachement à la simplicité et à l'indépendance.
+
+Ces événements montrent comment Diogène de Sinope utilisait des actions provocantes et des paroles percutantes pour défier les normes sociales et philosophiques de son époque, tout en promouvant une vie de simplicité et de vertu.
+
+Il s'attaque à de nombreuses valeurs du monde grec, critique la notion du sacré, remet en cause la cité et ses lois. Il rejette la société. Pour lui, nous sommes corrompus par les artifices de la civilisation et esclaves de nos passions. Il condamne les convoitises, le culte, les passions. Il préfère l'action à l'argumentation et estime que le seul but de la philosophie est le bonheur.
 
 ### Épicurisme, 306 av. J.-C. - VIème siècle après J.-C.
 ![Epicure](https://upload.wikimedia.org/wikipedia/commons/4/46/Raffael_063.jpg)
@@ -309,6 +269,7 @@ Né à Samos, d'un père colon athénien. Après s'être instruit auprès de plu
 Il passe le reste de sa vie dans ce jardin. (C'est pourquoi on nomme son école, le Jardin). Il y vit de manière simple et frugale, entouré de ses amis et disciples.
 
 **Quelle est sa philosophie ?**
+
 Épicure construit une théorie de la connaissance basée sur les sens. Pour lui, la réalité se réduit au sensible, les sens sont les seuls moyens qui dévoilent la réalité. Selon sa théorie des prénotions, nous formons en nous des concepts à partir d'expériences répétées. C'est pour cela que la vérité ne peut être connue qu'à partir des sens. Car si ils sont faux, alors il faut un autre critère supérieur. Or la raison ne convient pas puisqu'elle dépend du sens. Et aucune de nos sensations ne sont fausses, car étant différentes elles ne peuvent pas se contredire. Donc on ne pourrait pas distinguer les fausses des vraies. Les sensations seraient donc le seul critère valide.
 "Dire qu'une sensation est fausse reviendrait à dire que rien ne peut être perçu" Cicéron.
 Pour lui, l'erreur est uniquement causée par le jugement de la raison.
@@ -317,7 +278,7 @@ Ainsi, une théorie scientifique sera dite valide si :
 - elle n'est pas réfutée
 Plusieurs théories peuvent donc être valides, et doivent toutes être tenues pour vraies, car on ne peut faire de distinctions arbitraires.
 
-Une physique démocritienne (atomiste) / clinamen -> libre arbitre / pluralité des mondes.
+En physique, il reprend principalement les idées de démocrite et des atomiste. Cependant il rajoute une notione: le **clinament** qui explique le libre arbitre. Il croyait aussi en la pluralité des mondes.
 
 Principes :
 
@@ -325,7 +286,7 @@ Principes :
 2. Tout ne peut naître de tout
 3. Rien ne peut retourner au néant
 
-Sa philosophie en elle-même est un hédonisme, c'est-à-dire qu'elle a pour unique but le bonheur. Et pour atteindre ce bonheur, il s'agit d'avoir un maximum de plaisir et un minimum de souffrance, afin d'atteindre un état de tranquillité de l'âme, de bonheur stable, l'ataraxie. Ainsi, il ne vise pas un excès de plaisirs (qui serait accompagné de son lot de souffrance), mais un équilibre, un état de repos. D'un point de vue moral, le plaisir est le bien et la souffrance le mal.
+Sa philosophie en elle-même est un **heudémonisme**, c'est-à-dire qu'elle a pour unique but le bonheur. Et pour atteindre ce bonheur, il s'agit d'avoir un maximum de plaisir et un minimum de souffrance, afin d'atteindre un état de tranquillité de l'âme, de bonheur stable, l'**ataraxie**. Ainsi, il ne vise pas un excès de plaisirs (qui serait accompagné de son lot de souffrance), mais un équilibre, un état de repos. D'un point de vue moral, le plaisir est le bien et la souffrance le mal.
 Épicure distingue les désirs :
 Les désirs vains : (artificiels ex : richesse, gloire ou irréalisables) et les désirs naturels, eux-mêmes divisés en deux catégories : ceux nécessaires et ceux qui ne le sont pas.
 
@@ -342,7 +303,7 @@ C'est ainsi que Diogène d'Œnoanda fit graver sur le mur d'un portique sa doctr
 3. On peut atteindre le bonheur ;
 4. On peut supporter la douleur.
 
-Le fameux tétrapharmakon.
+Le fameux **tétrapharmakon**.
 Cette doctrine eut beaucoup de succès, et s'étendit dans tout le bassin méditerranéen. Elle attirait par sa facilité de compréhension. Et notamment grâce à Lucrèce, un des premiers philosophes à écrire en langue latine qui dans son *De rerum natura* décrit le monde selon les principes d'Épicure. (1er siècle)
 
 > « L'épicurisme propose un idéal de bonheur individuel et une vision du monde où ni les dieux, ni même la mort ne sont à craindre, car si tout l'univers est composé d'atomes éternels et indestructibles, l'homme ne doit rien à l'initiative des Dieux. » **Denis Huisman**
@@ -356,7 +317,7 @@ Il ne reste presque rien de ses 300 ouvrages estimés. On connaît sa philosophi
 ![Marc Aurèle, Musée Saint-Raymond Toulouse](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/440px-MSR-ra-61-b-1-DM.jpg)
 
 Le principal courant qui naît en parallèle de l'épicurisme est le stoïcisme.
-En effet, le stoïcisme naît en 301 av. J.-C., de l'esprit de Zénon de Kition.
+En effet, le stoïcisme naît en 301 av. J.-C., des mains de Zénon de Kition.
 
 **Qui est Zénon de Kition ?**
 
@@ -378,8 +339,6 @@ En effet, pour lui, la vertu est le bien suprême.
 
 Il invente le concept de kathèkon = "ce qui convient, l'action convenable", c'est-à-dire le devoir. Le devoir est donc une action conforme à la nature et à la raison.
 
-- Kathèkon vs Katorthômata (= action droite) vs adiaphora
-
 En ce qui concerne les passions (= sentiments), Zénon les qualifie de mal et de :
 > Mouvement irrationnel de l'âme contraire à la nature.
 
@@ -394,140 +353,9 @@ Le stoïcisme connaît trois périodes appelées : stoïcisme ancien, moyen et n
 Aujourd'hui, l'adjectif stoïque est utilisé pour qualifier une personne impassible, inébranlable devant la douleur et la peine par exemple. Ce qui reflète une petite partie de sa signification antique, mais qui reste en partie vrai.
 
 ## Conclusion, fin de la philosophie grecque antique
-- Christianisme
-- 529: fermeture des écoles philosophiques païennes par l'empereur Justinien en 529
-- fin de la philosophie hellenienne 
+
+Avec la monté du Christianisme, ses écoles de penssées on peu à peu disparus. Surtout après la fermeture des écoles philosophiques païennes par l'empereur Justinien en 529. Cependants, elles ont fortement influancé le christianisme et nos valeurs ansi que notre éthique contemporaine.
+
 ## Sources:
 - [Philo-lettres.fr, Michèle Tillard](https://philo-lettres.fr/grec-ancien/la-philosophie-grecque/) 
 - [Vies, doctrines et sentences des philosophes illusres, Diogène Laërce](https://remacle.org/bloodwolf/philosophes/laerce/thales1.htm)
-
-<style>
-	* {
-  box-sizing: border-box;
-}
-
-/* The actual timeline (the vertical ruler) */
-.timeline {
-  position: relative;
-  max-width: 1200px;
-  margin: 0 auto;
-  background-color: #474e5d;
-  font-family: Helvetica, sans-serif;
-}
-
-/* The actual timeline (the vertical ruler) */
-.timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: white;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-/* Container around content */
-.container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 50%;
-}
-
-/* The circles on the timeline */
-.container::after {
-  content: '';
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -17px;
-  background-color: white;
-  border: 4px solid #FF9F55;
-  top: 15px;
-  border-radius: 50%;
-  z-index: 1;
-}
-
-/* Place the container to the left */
-.left {
-  left: 0;
-}
-
-/* Place the container to the right */
-.right {
-  left: 50%;
-}
-/* Add arrows to the left container (pointing right) */
-.left::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  right: 30px;
-  border: medium solid white;
-  border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
-}
-
-/* Add arrows to the right container (pointing left) */
-.right::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  left: 30px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
-}
-
-/* Fix the circle for containers on the right side */
-.right::after {
-  left: -16px;
-}
-/* The actual content */
-.content {
-  padding: 5px 10px;
-  background-color: white;
-  position: relative;
-  border-radius: 6px;
-}
-	
-	/* Media queries - Responsive timeline on screens less than 600px wide */
-@media screen and (max-width: 600px) {
-/* Place the timelime to the left */
-  .timeline::after {
-    left: 31px;
-  }
-
-/* Full-width containers */
-  .container {
-    width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
-  }
-
-/* Make sure that all arrows are pointing leftwards */
-  .container::before {
-    left: 60px;
-    border: medium solid white;
-    border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
-  }
-
-/* Make sure all circles are at the same spot */
-  .left::after, .right::after {
-    left: 15px;
-  }
-
-/* Make all right containers behave like the left ones */
-  .right {
-    left: 0%;
-  }
-}
-</style>
